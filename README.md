@@ -1,7 +1,7 @@
 Ressources
 ==========
 
-Quelques ressources .Net, web dev...
+Quelques ressources .Net, web dev, web design...
 
 ##Développement web
 - bento, everything you need to know about web development. Neatly packaged : http://www.bentobox.io/
