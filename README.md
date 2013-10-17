@@ -1,6 +1,4 @@
-Ressources
-==========
-
+#Ressources
 Quelques ressources .Net, web dev, web design...
 
 ##Développement web
