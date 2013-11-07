@@ -1,14 +1,17 @@
 #Ressources
+`Hello World !`
 Quelques ressources .Net, web dev, web design...
 
 ##C# et .Net
 - [C# Fundamentals: Development for Absolute Beginners (Vidéos)](http://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)
 - [Jon Skeet's C# and .NET articles and links](http://www.yoda.arachsys.com/csharp/)
 - [Code Project / Some practices to write better C#/.NET code](http://www.codeproject.com/KB/cs/)
+- [ASP.NET Best Practices - Useful Tips from the Trenches](http://fr.slideshare.net/hrushdan/aspnet-best-practices-useful-tips-from-the-trenches)
+- [ASP.NET Page Life Cycle Diagram](http://blogs.msdn.com/b/aspnetue/archive/2010/01/14/asp-net-page-life-cycle-diagram.aspx)
 
 ##Développement web
 - bento, everything you need to know about web development. Neatly packaged : http://www.bentobox.io/
-- item
+- ...
 
 ##Javascript
 - Learning JavaScript Design Patterns : http://addyosmani.com/resources/essentialjsdesignpatterns/book/
@@ -21,4 +24,4 @@ Quelques ressources .Net, web dev, web design...
 ## SEO
 - SEO Cheat Sheet : http://d2eeipcrcdle6.cloudfront.net/seo-cheat-sheet/SEOCheatSheet_2-2013.pdf
 
-`Code`
+
