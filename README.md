@@ -23,5 +23,5 @@ Quelques ressources .Net, web dev, web design...
 
 ## SEO
 - [SEO Cheat Sheet](http://d2eeipcrcdle6.cloudfront.net/seo-cheat-sheet/SEOCheatSheet_2-2013.pdf)
-
+- test ajout
 
